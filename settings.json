@@ -1,0 +1,10 @@
+{
+  "tui": "fullscreen",
+  "theme": "light",
+  "agentPushNotifEnabled": true,
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.justwoker.icu",
+    "ANTHROPIC_AUTH_TOKEN": "sk-MCB6lEAKtu18dJ4KEOXSTg6KHXqpVBlOfQS4ziGGdobFmJMl",
+    "ANTHROPIC_MODEL": "claude-opus-5"
+  }
+}
